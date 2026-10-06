@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="Futuristic Network Data Horizon.png" width="100%" />
-
-<br>
-
 # Karan Nijhawan
 
 ### Software · Machine Learning · Research
